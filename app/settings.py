@@ -1,0 +1,13 @@
+API_KEY = '6981464078:AAFdDWJ1j_rbFTTudJyAqNDJDfIJVwi8PsI'
+WORDS_API_URL_USER_DICTIONARIES = 'http://77.246.103.170:80/api/user_dictionaries/'
+WORDS_API_URL_USER_REPLY = 'http://77.246.103.170:80/api/user_reply/'
+WORDS_API_URL_USER_VERIFY = 'http://77.246.103.170:80/api/verify_user/'
+WORDS_API_URL_UPDATE_WORD_FILE_ID = 'http://77.246.103.170:80/api/update_file_id/'
+WORDS_API_URL_MEDIA = 'http://77.246.103.170:80/media/words/'
+available_type_of_quiz = ["RUS", "EN"]
+available_type_of_help_message = ["Get Example", "Get Part Of Speach"]
+MESSAGE_QUESTION = 'How to translate this word: '
+MESSAGE_WRONG_ANSWER = 'Fail. Please try again'
+MESSAGE_FINISH_QUIZ = 'Congratulations. You have finished the quiz!'
+MESSAGE_USER_DOES_NOT_EXIST = 'User does not exist, please create account on our website. Your telegram id: '
+MESSAGE_CHOOSE_TYPE_OF_QUIZ = 'Please, choose type of quiz: '
